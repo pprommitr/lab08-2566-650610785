@@ -1,7 +1,7 @@
-import { Footer } from "@/components/footer";
-import { Header } from "@/components/header";
-import { TaskInput } from "@/components/TaskInput";
-import { Task } from "@/components/Task";
+import { Footer } from "@/Components/Footer";
+import { Header } from "@/Components/Header";
+import { Task } from "@/Components/Task";
+import { TaskInput } from "@/Components/TaskInput";
 
 export default function Home() {
   return (
